@@ -49,7 +49,7 @@ The **Energy-Efficient Plant Monitoring System** is designed to monitor environm
   ```bash
   sudo apt install libcamera-tools
   
-  ---
+---
 
 ## Usage Instructions
 1. **Configuration**:
