@@ -11,8 +11,8 @@ DHT_PIN = 35             # Pin 35 (GPIO 19) for DHT11 sensor
 SOIL_PIN = 5             # GPIO 5 for soil moisture sensor
 BUZZER_PIN = 33          # Pin 33 (GPIO 13) for the buzzer
 LONG_INTERVAL = 900      # Long interval (15 minutes)
-DEFAULT_INTERVAL = 15   # Default interval (5 minutes)
-SHORT_INTERVAL = 5      # Short interval (1 minute)
+DEFAULT_INTERVAL = 300   # Default interval (5 minutes)
+SHORT_INTERVAL = 60      # Short interval (1 minute)
 IMAGE_CAPTURE_INTERVAL = DEFAULT_INTERVAL
 MAX_RETRIES = 5          # Maximum retries for DHT11 readings
 
